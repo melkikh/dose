@@ -1,4 +1,4 @@
-# Dose
+# <img src="Assets/AppIcon.png" alt="Dose icon" width="48" height="48" align="center"> Dose
 
 A small macOS menu bar monitor for Codex usage. The ring shows your remaining limit; the center shows days or hours until reset.
 
